@@ -1,4 +1,4 @@
-Olá, sou Felipe Freitas e  estudo programação na plataforma Alura e estou cursando Ciencia da Computação.
+Olá, sou Felipe Freitas e  estudo progrmação na plataforma ALURA e estou cursando Ciencia da Computação.
 Estou em busca da minha primeira oportu!
 
 - Atualmente estou trabalhando em Front-End, porem com o passar do tempo pretendo me tornar um Duv Full-Stack.
