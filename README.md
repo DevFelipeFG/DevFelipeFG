@@ -1,5 +1,7 @@
-# Nome Sobrenome
-Breve descrição sobre você.
+# Felipe Freitas
+👋 Olá! Sou o Felipe, estudante de Ciência da Computação na Universidade Anhembi Morumbi. Atualmente, estou trilhando meu caminho no mundo da tecnologia e da inovação.
+📚 Estou realizando o Santander Bootcamp 2023 - Fullstack Java + Angular. Atualmente, também estudo por conta própria na Alura, onde tenho a oportunidade de expandir meu conhecimento e me manter atualizado sobre as últimas tendências e tecnologias do mercado.
+💼 Atuo como estagiário na empresa UOTZ no aboratório de UX, testando e colaborando na construção de interface de produtos digitais. Também tenho a oportunidade de atuar como desenvolvedor voluntário na THOT.IA CORP.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
