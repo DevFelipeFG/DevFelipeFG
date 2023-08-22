@@ -6,8 +6,7 @@
 💼 Atuo como estagiário na empresa UOTZ no aboratório de UX, testando e colaborando na construção de interface de produtos digitais. Também tenho a oportunidade de atuar como desenvolvedor voluntário na THOT.IA CORP.
 
 ### Conecte-se comigo
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:felipefregeni@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipe-freitas-genitore/)
 
 
 ### Habilidades
