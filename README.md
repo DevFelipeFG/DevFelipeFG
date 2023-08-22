@@ -1,7 +1,7 @@
 # Felipe Freitas
-👋 Olá! Sou o Felipe, estudante de Ciência da Computação na Universidade Anhembi Morumbi. Atualmente, estou trilhando meu caminho no mundo da tecnologia e da inovação.
+👋 Olá! Sou o Felipe, estudante de Ciência da Computação na Universidade Anhembi Morumbi.
 
-📚 Estou realizando o Santander Bootcamp 2023 - Fullstack Java + Angular. Atualmente, também estudo por conta própria na Alura, onde tenho a oportunidade de expandir meu conhecimento e me manter atualizado sobre as últimas tendências e tecnologias do mercado.
+📚 Estou realizando o Santander Bootcamp 2023 - Fullstack Java + Angular. Atualmente, também estudo por conta própria na plataforma Alura e DevSamurai.
 
 💼 Atuo como estagiário na empresa UOTZ no aboratório de UX, testando e colaborando na construção de interface de produtos digitais. Também tenho a oportunidade de atuar como desenvolvedor voluntário na THOT.IA CORP.
 
