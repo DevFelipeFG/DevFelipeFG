@@ -1,4 +1,4 @@
-# Felipe Freitas
+# Felipe Freitas Genitore
 👋 Olá! Sou o Felipe, estudante de Ciência da Computação. Atualmente sou estagiário QA.
 
 ### Conecte-se comigo
