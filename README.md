@@ -1,5 +1,5 @@
 # Felipe Freitas Genitore
-👋 Olá! Sou o Felipe, estudante de Ciência da Computação. Atualmente sou estagiário QA.
+👋 Olá! Meu nome é Felipe, estudante de Ciência da Computação. Atualmente sou estagiário QA.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipe-freitas-genitore/)
