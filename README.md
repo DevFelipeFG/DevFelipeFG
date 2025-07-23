@@ -15,6 +15,7 @@ _Veja mais projetos no meu perfil → abaixo._
 | 💼 LinkedIn | [Felipe Freitas Genitore](https://www.linkedin.com/in/felipe-freitas-genitore/) |
 | 🐙 GitHub | [github.com/DevFelipeFG](https://github.com/DevFelipeFG) |
 
+--- 
 
 ✨ **Estou sempre aberto(a) a novos desafios e colaborações. Vamos conversar!**
 
